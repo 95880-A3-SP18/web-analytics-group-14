@@ -1,0 +1,25 @@
+Deliverable 1 - Project Proposal (Using GitHub Pages)
+Who are your customers?
+
+Potential Bit Coin Investors
+
+-What are their needs? 
+
+-Knowing different price across different market/ exchanges
+-Using Twitter API to know what is going on
+-	
+
+What specific problem(s) will you solve?
+
+-Aggregate information and provide useful insights
+
+Why do these problems need solved?
+
+-Bit-coin is one of the hot areas and this project could be of some help.
+
+Where are you going to pull the data from?
+
+https://www.gdax.com/
+https://coinmarketcap.com/
+https://www.binance.com/trade.html
+https://www.bestbitcoinexchange.io/
