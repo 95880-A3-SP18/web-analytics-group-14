@@ -38,6 +38,8 @@ We are planning on using the following websites and API to collect data:
 6. https://cex.io/
 7. Twitter API
 
+## UI FrameWorkDraft:
+[Current Draft](https://github.com/95880-A3-SP18/web-analytics-group-14/blob/master/Group14_UIFrameWork/Python_UI_Draft.jpg)
 
 ## Team  and  Contact:
 
