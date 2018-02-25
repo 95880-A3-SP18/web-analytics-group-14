@@ -40,6 +40,8 @@ We are planning on using the following websites and API to collect data:
 
 ## UI FrameWorkDraft:
 [Current Draft](https://github.com/95880-A3-SP18/web-analytics-group-14/blob/master/Group14_UIFrameWork/Python_UI_Draft.jpg)
+Basic UI will offer recent tweets and cryptocurrency rank.
+Upon searching, it will give recent statuc of a specific cryptocurrency and the market of this currency, alone with related tweets.
 
 ## Team  and  Contact:
 
