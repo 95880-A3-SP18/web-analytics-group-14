@@ -45,11 +45,11 @@ Basic UI will offer recent tweets and cryptocurrency rank.
 Upon searching, it will give recent statuc of a specific cryptocurrency and the market of this currency, alone with related tweets.
 
 We first have some draft like this:
-![Current Draft](https://github.com/95880-A3-SP18/web-analytics-group-14/blob/master/Group14_UIFrameWork/Python_UI_Draft.JPG "CurrentDraft")
+![Current Draft](./UIdrafts/Python_UI_Draft.jpg)
 Than we developed the screen shots as below.
 
-![Screenshot1](https://github.com/95880-A3-SP18/web-analytics-group-14/blob/master/Group14_UIFrameWork/home%20screen.png "index1")
-![Screenshot2](https://github.com/95880-A3-SP18/web-analytics-group-14/blob/master/Group14_UIFrameWork/subsquent%20page.png "index2")
+![Screenshot1](./UIdrafts/ScreenShot1.jpeg)
+![Screenshot2](./UIdrafts/ScreenShot2.jpeg)
 
 
 
