@@ -21,11 +21,11 @@ Given the volatility in the cryptocurrency market, some of the needs of investor
 
 ## Our solution:
 
-We will develop a web based tool that helps investors/traders reduce uncertaininty by providing them actionable and well packaged price information across various markets/exchanges; in addition we will incoporate some tweets analytics to help investors/traders have a concrete to measure impact of social media impact on prices and sell/buy volumes of the top 5 most traded coins.
+We will develop a web based tool that helps investors/traders reduce uncertaininty by providing them with actionable and well packaged price information across various markets/exchanges; in addition we will incoporate some tweets analytics to help investors/traders have a concrete measure of impact of social media on prices and sell/buy volumes of the top 5 most traded coins.
 
 ## Importance of Web tool:
 
-Given the lack of actionable and concise datasets and high rate of the white noise across various cyrpto markets/exchanges, there is need of an easy but powerful analytics tool o help investors/traders make better investing/trading decisions and we believe our tool is the right step in that direction.
+Given the lack of actionable and concise datasets and high rate of the white noise across various cyrpto markets/exchanges, there is a need of an easy but powerful analytics tool o help investors/traders make better investing/trading decisions and we believe our tool is the right step in that direction.
 
 ## Data Sources:
 
@@ -36,7 +36,8 @@ We are planning on using the following websites and API to collect data:
 4. https://www.kraken.com/charts
 5. https://poloniex.com/exchange#usdt_xrp
 6. https://cex.io/
-7. Twitter API
+7. https://bitinfocharts.com/cryptocurrency-exchange-rates/
+8. Twitter API
 
 ## UI FrameWorkDraft:Please see the following screenshots.
 Basic UI will offer recent tweets and cryptocurrency rank.
