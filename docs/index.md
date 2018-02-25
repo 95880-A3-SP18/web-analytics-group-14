@@ -1,37 +1,47 @@
-# Django Starter Project
+### Group 14 Web Analytics Project Proposal
 
-This is the starter project for our Django related projects. It's been pre-configured for deployment on [Heroku](http://heroku.com/).
+## Project Summary
 
-## Example Deliverables
+Cryptocurrencies have become a global phenomenon. With high volatility in the cryptocurrency market, there is a potential to invest and make great profits. However there is no established source that can give potetntial investor and cryptocurrency traders a quick snapshot of what is happening across various cryptocurrency exchanges. That's where our solution comes in; our web anlytics app helps investors and traders in cryptocurency to access accurate information faster and helps them make investing/trading decisions easier by decresing uncertaininty.
 
-We'll use GitHub functionality and Heroku to complete the project. Deliverables for a project might look like.  **Note: See your Course Syllabus and Assignments for course specific details**
+## Potential Customers 
 
-- Deliverable 1 - Project Proposal (Using GitHub Pages)
-  - Who are your customers?
-  - What are their needs?
-  - What specific problem(s) will you solve?
-  - Why do these problems need solved?
-  - Where are you going to pull the data from?
-- Deliverable 2 - Project Board (Using GitHub Project Boards)
-  - A detailed list of tasks that need performed in order to accomplish this project.
-- Deliverable 3 - Web Scraped Data Review (Using GitHub)
-  - An example CSV file that contains data scraped and/or extracted from your data sources.
-  - Associated source code that scrapes and/or pulls the data.
-- Deliverable 4 - UI Wireframe Review (Using GitHub Pages)
-  - Basic wireframes or screenshot captures documented in your GitHub pages with a detailed description of the application.
-- Deliverable 5 - Source Code, Project Board, Documentation, Deployed Application, and Demo
-  - Source Code will be Posted on GitHub
-  - Project Board will use GitHub Project Boards
-  - Documentation will use GitHub Pages
-  - Deployed Application will be hosted on Heroku
-  - Demo will be performed In-Class
+This tool would be beneficial to different groups of people, our main targets are:
 
-## Useful Links
+- Cryptocurrency Investor
+- Cyrptocurrency Traders and 
+- Cryptocurrency enthusiasts
 
-- [GitHub](https://github.com)
-- [GitHub Pages](https://pages.github.com)
-- [GitHub Project Boards](https://help.github.com/articles/about-project-boards)
-- [Heroku](https://www.heroku.com/)
-  - [Deploying Python](https://devcenter.heroku.com/articles/deploying-python)
-  - [Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)
-  - [Django Assets](https://devcenter.heroku.com/articles/django-assets)
+## Customers' Needs:
+
+Given the volatility in the cryptocurrency market, some of the needs of investors/traders are:
+- ability to reduce/manage uncertaininty 
+- ability to gauge the social media trends and their impact on prices in crypto market and 
+- collection of actionable datasets due high white noise in the market.
+
+## Our solution:
+
+We will develop a web based tool that helps investors/traders reduce uncertaininty by providing them actionable and well packaged price information across various markets/exchanges; in addition we will incoporate some tweets analytics to help investors/traders have a concrete to measure impact of social media impact on prices and sell/buy volumes of the top 5 most traded coins.
+
+## Importance of Web tool:
+
+Given the lack of actionable and concise datasets and high rate of the white noise across various cyrpto markets/exchanges, there is need of an easy but powerful analytics tool o help investors/traders make better investing/trading decisions and we believe our tool is the right step in that direction.
+
+## Data Sources:
+
+We are planning on using the following websites and API to collect data:
+1. https://www.gdax.com/
+2. https://coinmarketcap.com/
+3. https://www.binance.com/trade.html
+4. https://www.kraken.com/charts
+5. https://poloniex.com/exchange#usdt_xrp
+6. https://cex.io/
+7. Twitter API
+
+
+## Team  and  Contact:
+
+Having any questions or suggestions? Feel free to reach out to:
+- Miguel 
+- Sean 
+- Xin 
