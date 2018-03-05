@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+{% extends 'base.html' %}
+
+{% load staticfiles %}
+
+{% block title %}markets {% endblock %}
+
+{% block body_block %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <br />
+<br />
+    <title>Current Market Information</title>
+</head>
+<body>
+<br />
+<br />
+{% for post in object_list %}
+    <li>{{ post }}</li>
+  {% endfor %}
+<h2 class="sub-header">Current Cryptocurrency Market</h2>
+    <img src="{% static 'images/market.png' %}" alt="form" width="970" height="645"><br />
+    <br />
+    <img src="{% static 'images/MarketCap.png' %}" alt="form" width="424" height="274"><br />
+    <br />
+
+</body>
+</html>
+
+{% endblock %}

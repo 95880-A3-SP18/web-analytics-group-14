@@ -1,0 +1,57 @@
+<!doctype html>
+{% extends 'base.html' %}
+
+{% load staticfiles %}
+
+{% block title %}Index {% endblock %}
+
+{% block body_block %}
+
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <img class="first-slide" src="{% static 'images/Background.png' %}" alt="Background">
+          <div class="container">
+            <div class="carousel-caption">
+
+              <h1>Cryptocurrency Information Hub</h1>
+            </div>
+          </div>
+        </div>
+    </div>
+
+
+
+    <div class="container marketing">
+    <br />
+    <br />
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img-square" src="{% static 'images/market.jpg' %}" alt="markets" width="90" height="90">
+          <h2>Current Market</h2>
+          <p>Up to date Market information</p>
+          <p><a class="btn btn-default" href="markets" role="button">Find out&raquo;</a></p>
+        </div>
+        <div class="col-lg-4">
+          <img class="img-square" src="{% static 'images/coins.png' %}" alt="coin" width="90" height="90">
+          <h2>Specific Cryptocurrency</h2>
+          <p>Find the cheapest market</p>
+          <p><a class="btn btn-default" href="coin" role="button">Find out&raquo;</a></p>
+        </div>
+        <div class="col-lg-4">
+          <img class="img-circle" src="{% static 'images/twitter.jpg' %}" alt="tweets" width="90" height="90">
+          <h2>Hot Tweets</h2>
+          <p>What People are discussing</p>
+          <p><a class="btn btn-default" href="tweets" role="button">Find out &raquo;</a></p>
+        </div>
+    </div>
+ {##}
+    <br />
+    <br />
+    <p>©This is the Python project for 95880-CMU made by Zixiang Wang, Miguel Twahirwa and Xin Qiu.<br />
+  </div>
+</div>
+
+{% endblock %}

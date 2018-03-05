@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+{% extends 'base.html' %}
+
+{% load staticfiles %}
+
+{% block title %}Index {% endblock %}
+
+{% block body_block %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <br />
+    <br />
+    <title>Hot Tweets</title>
+</head>
+<body>
+<br />
+<br />
+<h2 class="sub-header">Hot tweets</h2>
+    <img src="{% static 'images/tweets.png' %}" alt="form" width="1009" height="426"><br />
+    <p><a class="btn btn-default" href="heatmap" role="button">Heat Map &raquo;</a></p>
+    <br />
+
+</body>
+</html>
+
+{% endblock %}
